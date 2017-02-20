@@ -1,7 +1,6 @@
 # Atom Replacement Icon
 
-![](https://rawgithub.com/edwardloveall/atom-replacement-icon/master/screenshot.png)
-
+![](https://d13yacurqjgara.cloudfront.net/users/1101120/screenshots/2567409/dribbble-atom.png)
 ## Install on macOS
 
 This icon comes with an install shell script. To use it:
